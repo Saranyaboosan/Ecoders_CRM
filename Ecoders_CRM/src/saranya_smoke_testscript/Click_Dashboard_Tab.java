@@ -18,7 +18,6 @@ public class Click_Dashboard_Tab {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		Thread.sleep(2000);
-		
 		WebElement Dashboard = driver.findElement(By.xpath("//a[@class='nav-link']"));
 		Thread.sleep(2000);
 		Dashboard.click();
