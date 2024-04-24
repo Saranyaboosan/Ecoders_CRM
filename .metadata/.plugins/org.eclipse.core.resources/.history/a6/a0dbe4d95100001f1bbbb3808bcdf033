@@ -1,0 +1,10 @@
+package saranya_smoke_testscript;
+
+public class Click_Dashboard_Tab {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
