@@ -1,2 +1,2 @@
 # Ecoders_CRM
-manual,automayion,database,api,maven teasting
+manual,automation,database,api,maven teasting
