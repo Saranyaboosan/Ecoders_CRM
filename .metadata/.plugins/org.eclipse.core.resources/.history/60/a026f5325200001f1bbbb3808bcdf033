@@ -1,0 +1,22 @@
+package saranya_smoke_testscript;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Click_Dashboard_Tab {
+
+	
+		public static void main(String[] args) throws InterruptedException 
+		{
+		WebDriver driver =new ChromeDriver();
+		Thread.sleep(2000);
+		driver.get("http://localhost:5173");
+		{
+			System.out.println("Home page should displayed");
+		}
+
+	
+
+	}
+
+}

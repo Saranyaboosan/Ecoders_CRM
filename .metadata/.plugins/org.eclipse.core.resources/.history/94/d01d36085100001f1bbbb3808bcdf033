@@ -1,0 +1,10 @@
+package saranya_smoke_testscript;
+
+public class Open_HomePage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
